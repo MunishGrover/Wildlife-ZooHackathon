@@ -11,4 +11,18 @@ body{
     -ms-animation: gradientAnimation 10s ease infinite;
     -o-animation: gradientAnimation 10s ease infinite;
     animation: gradientAnimation 10s ease infinite;
+    background-attachment: fixed;
+}
+.temp{
+    width: 100%;
+    height: 500px;
+    margin-top: 800px;
+    background-color: whitesmoke;
+   border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+}
+.myscroll{
+   position: absolute;
+    top: 600px;
+    margin-left: 43%;
 }
